@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>
-        Hello new change. Hello world! Howdy 🤠! Push change after flipping final build to admin queue migration flag 
+        Hello new change. Hello world! Howdy 🤠! Change on 10/15/2024
       </p>
     </>
   )
